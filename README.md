@@ -22,7 +22,10 @@ After compilation run the server by the command:
 ```
 ./webserver directory port
 ```
-where directory stands for a directory from which the server will serve the webpages whearas port is a port number. 
+where directory stands for a directory from which the server will serve the webpages whearas port is a port number. An example: 
+```
+./webserver webpages 1234
+```
 
 As client use e.g. an Internet browser to send reqeusts
 ```
